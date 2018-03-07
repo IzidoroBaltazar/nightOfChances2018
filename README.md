@@ -1,14 +1,14 @@
 # Night Of Chances 2018
 ### Workshop preparation
-create python 2 virtual environment
+Create python 2 virtual environment
 ```
 mkvirtualenv nightOfChances2018
 ```
-install requirements
+Install requirements
 ```
 pip install -r requirements.txt
 ```
-run jupyter
+Run jupyter
 ```
 jupyter notebook
 ```
